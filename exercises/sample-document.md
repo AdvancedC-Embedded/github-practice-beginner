@@ -3,6 +3,7 @@
 > ⚠️ **Chú ý:** File này cố tình có lỗi để sinh viên luyện tập sửa. Đây là bài tập 2.
 
 ## Giới thiệu về GitHub
+
 GitHub là một platform phát triển phần mềm rất phổ biến.
 
 ### Các tính năng chính
@@ -13,6 +14,7 @@ GitHub là một platform phát triển phần mềm rất phổ biến.
 * Actions (CI/CD)
 
 ### Links hữu ích
+
 - [Trang chủ GitHub](https://github.com)
 - [Docs](https://docs.github.com) 
 - [GitHub Guides](https://guides.github.com/)
