@@ -10,8 +10,7 @@
 ## Danh sách:
 
 <!-- Thêm thông tin của bạn ở dưới dòng này -->
-- Maintainer - HUST/IT - maintainer@example.com - @maintainer
-
+- Pham Yen Nhi - HUST/ME1 - nhiph.1105@gmail.com - @nhiph1105
 <!-- 
 Ví dụ:
 - Nguyễn Văn A - HUST/CNTT - vana@gmail.com - @vana123
