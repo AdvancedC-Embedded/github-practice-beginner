@@ -1,6 +1,6 @@
 # 🗂️ Document có lỗi Markdown - CẦN SỬA!
 
-⚠️ **Chú ý:** File này cố tình có lỗi để sinh viên luyện tập sửa. Đây là bài tập 2.
+> ⚠️ **Chú ý:** File này cố tình có lỗi để sinh viên luyện tập sửa. Đây là bài tập 2.
 
 ## Giới thiệu về GitHub
 GitHub là một platform phát triển phần mềm rất phổ biến.
@@ -15,7 +15,7 @@ GitHub là một platform phát triển phần mềm rất phổ biến.
 ### Links hữu ích
 - [Trang chủ GitHub](https://github.com)
 - [Docs](https://docs.github.com) 
-- [Link bị hỏng] htps://broken-link.com
+- [GitHub Guides](https://guides.github.com/)
 
 ### Code Example
 
@@ -49,4 +49,4 @@ Git và GitHub là công cụ không thể thiếu cho developer hiện đại.
 2. Làm tutorial
 3. Practice với project thực tế
 
-**Ghi chú**: File này được tạo để luyện tập sửa lỗi Markdown!
+> **Ghi chú:** File này được tạo để luyện tập sửa lỗi Markdown!
