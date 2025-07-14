@@ -2,14 +2,14 @@
 
 > ⚠️ **Chú ý:** File này cố tình có lỗi để sinh viên luyện tập sửa. Đây là bài tập 2.
 
-##Giới thiệu về GitHub
+## Giới thiệu về GitHub
 GitHub là một platform phát triển phần mềm rất phổ biến.
 
 ### Các tính năng chính
 
-* Repository hosting
+- Repository hosting
 - Issue tracking  
-* Pull requests
+- Pull requests
 - Actions (CI/CD)
 
 ### Links hữu ích
@@ -29,7 +29,7 @@ function hello() {
 
 ## Image Example
 
-!(GitHub Logo)[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png]
+![GitHub Logo][https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png]
 
 ### Bảng so sánh Git vs GitHub
 
