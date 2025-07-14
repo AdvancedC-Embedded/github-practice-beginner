@@ -10,7 +10,7 @@
 ## Danh sách:
 
 <!-- Thêm thông tin của bạn ở dưới dòng này -->
-- Maintainer - HUST/IT - maintainer@example.com - @maintainer
+- Nguyễn Văn Trung - HUST/TE1 - trung432004@gmail.com - @Trung434
 
 <!-- 
 Ví dụ:
@@ -24,3 +24,4 @@ Ví dụ:
 - Mỗi person một dòng
 - Tuân thủ đúng format để dễ đọc
 - Profile chi tiết hơn ở thư mục `profiles/`
+
