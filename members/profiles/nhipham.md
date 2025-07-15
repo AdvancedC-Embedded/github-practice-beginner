@@ -4,14 +4,14 @@
 - 🎓 **Trường:** Trường Cơ khí
 - 📚 **Khoa:** Cơ điện tử  
 - 📅 **Năm học:** 3
-- 📧 **Email:** [nhiph.1105@gmail.com]
+- 📧 **Email:** nhiph.1105@gmail.com
 - 🐙 **GitHub:** [@nhiph1105](https://github.com/nhiph1105)
 
 ## 🎯 Mục tiêu học tập
 - [ ] Học Git/GitHub cơ bản
 - [ ] Hoàn thành khóa học Samsung Innovation Campus
 - [ ] Tham gia dự án thực tế
-- [ ] [Mục tiêu khác của bạn]
+- [ ] Học hành tử tế
 
 ## 💻 Kỹ năng đang học
 - **Ngôn ngữ lập trình:** Python/JavaScript/C/HTML
@@ -25,16 +25,10 @@
 ## 🎮 Sở thích
 - 🎵 Nghe nhạc: Pop, Rap, EDM
 - ⚽ Thể thao: Bóng rổ
-- 🎯 Khác: Chơi rubik, game, Xem F1
+- 🎯 Khác: Chơi rubik, game, Xem F1, T1
 
 ## 💭 Quote yêu thích
-> "[Câu quote/châm ngôn bạn yêu thích]"
-
-## 📈 GitHub Stats
-<!-- Các bạn có thể thêm GitHub stats sau khi học xong -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
+> "Cậu phải đứng ở vị trí của những người yêu thương cậu, cậu sẽ thấy cậu tuyệt vời như thế nào"
 
 **🚀 Cảm ơn bạn đã ghé thăm profile của tôi!**
 
