@@ -23,7 +23,7 @@
 
 ## 🎮 Sở thích
 - 🎵 Nghe nhạc: [US - UK]  
-- ⚽ Thể thao: [Chạy bộ]
+- ⚽ Thể thao: [Đá bóng]
 - 🎯 Khác: [Chơi game]
 
 ## 📈 GitHub Stats
