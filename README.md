@@ -1,8 +1,8 @@
 # 🎯 GitHub Practice - Beginner Level
 
-> **Repo luyện tập GitHub dành cho sinh VIệt Nam**
+> **Repo luyện tập GitHub dành cho sinh viên HUST**
 
-"✨ Updated by Trung"
+"✨ Updated by team member"
 
 ## 📖 Giới thiệu
 
